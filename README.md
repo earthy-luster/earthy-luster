@@ -6,13 +6,13 @@ I'm a Data Science Manager with a penchant for adventure. Balancing the intricac
 
 ## Skills and Experience
 
-* PYTHON 
-* HTML
-* SQL
-* TABLEAU
-* POWER BI
-* ZOHO
-* ![Uploading GoogleSheetGIF.gif…]() EXCEL 
+* ⌨️PYTHON 
+* 🖥️HTML
+* 📃SQL
+* 💹TABLEAU
+* 📊POWER BI
+* 📈ZOHO
+* 🔢EXCEL 
 
 - 🔭 I’m currently working on Micro Finance Firm 
 
