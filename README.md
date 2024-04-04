@@ -14,7 +14,7 @@ I'm a Data Science Manager with a penchant for adventure. Balancing the intricac
 * 📈ZOHO
 * 🔢EXCEL 
 
-- 🔭 I’m currently working at a Finance Firm 
+- 🔭 I’m currently working at a Finance Firm as an Assistant Manager of Data Analytics.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/earthy-luster)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Priyanka/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/earthy_luster/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Priyank98464633)  
