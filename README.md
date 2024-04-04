@@ -1,4 +1,4 @@
-![Data Science and Analysis](https://github.com/earthy-luster/earthy-luster/blob/main/Priyanka_GitHub_Banner.png)
+![Data Science and Analysis](https://pbs.twimg.com/profile_banners/1267312983132135424/1712228218/1080x360)
 
 # Priyanka Sharma
 
