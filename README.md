@@ -1,4 +1,4 @@
-![GoogleSheetGIF](https://github.com/earthy-luster/earthy-luster/assets/140796526/b6d8fd72-0889-426b-8c15-40f795a2688c)![Data Science and Analysis](https://pbs.twimg.com/profile_banners/1267312983132135424/1712228218/1080x360)
+![Data Science and Analysis](https://pbs.twimg.com/profile_banners/1267312983132135424/1712228218/1080x360)
 
 # Priyanka Sharma
 
