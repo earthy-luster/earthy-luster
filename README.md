@@ -1,6 +1,6 @@
 ### Hi there 👋, Priyanka
 #### Data Science and Analysis
-![Data Science and Analysis]((https://github.com/earthy-luster/earthy-luster/blob/main/Priyanka_GitHub_Banner.png))
+![Data Science and Analysis](https://github.com/earthy-luster/earthy-luster/blob/main/Priyanka_GitHub_Banner.png)
 
 I'm a Data Science Manager with a penchant for adventure. Balancing the intricacies of data analytics with my love for travel, I lead a dynamic team to uncover insights and drive innovation. Whether exploring new cultures or analyzing complex datasets, I thrive on discovery and embrace every journey with curiosity and enthusiasm. Let's embark on this data-driven adventure together.
 
