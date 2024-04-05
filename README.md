@@ -19,4 +19,5 @@ I'm a Data Science Manager with a penchant for adventure. Balancing the intricac
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/earthy-luster)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Priyanka/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/earthy_luster/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Priyank98464633)  
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=earthy-luster&label=Profile%20views&color=0e75b6&style=flat" alt="earthy-luster" /> </p>
 
