@@ -1,4 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=earthy-luster&label=Profile%20views&color=0e75b6&style=flat" alt="earthy-luster" /> </p>
 ![Data Science and Analysis](https://pbs.twimg.com/profile_banners/1267312983132135424/1712228218/1080x360)
 
 # Priyanka Sharma
